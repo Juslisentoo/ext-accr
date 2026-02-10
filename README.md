@@ -1,4 +1,4 @@
-# 📎 Accrocher — Extension Navigateur
+# Accrocher — Extension Navigateur
 
 **Partagez des liens vers [Accrocher](https://accrocher-psi.vercel.app) en un clic depuis votre navigateur.**
 
