@@ -156,4 +156,4 @@ Cette extension :
 
 ---
 
-*Fait avec 💜 par l'équipe Accrocher*
+*Fait avec 💜*
